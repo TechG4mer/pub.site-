@@ -1,0 +1,14 @@
+body {
+  background-color: #C7C6C6;
+}
+
+.info {
+    margin-top: 99%;
+}
+
+.login {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
